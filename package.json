@@ -109,7 +109,7 @@
     "uid-safe": "^2.1.4",
     "url-loader": "^0.5.9",
     "url-search-params": "^0.6.1",
-    "webpack": "^3.8.0",
+    "webpack": "^4.29.0",
     "yargs": "^6.3.0"
   },
   "devDependencies": {
