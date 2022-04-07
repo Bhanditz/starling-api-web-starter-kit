@@ -102,14 +102,14 @@
     "redux-form": "^7.1.2",
     "redux-thunk": "^2.0.0",
     "rimraf": "^2.5.4",
-    "sass-loader": "^6.0.5",
+    "sass-loader": "^6.0.7",
     "semantic-ui-react": "^0.75.1",
     "starling-developer-sdk": "^0.1.14",
     "style-loader": "^0.13.2",
     "uid-safe": "^2.1.4",
     "url-loader": "^0.5.9",
     "url-search-params": "^0.6.1",
-    "webpack": "^3.8.0",
+    "webpack": "^4.0.0",
     "yargs": "^6.3.0"
   },
   "devDependencies": {
